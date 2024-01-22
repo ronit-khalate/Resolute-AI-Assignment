@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "462800828735",
+    "project_id": "resolute-ai-assignment-7763a",
+    "storage_bucket": "resolute-ai-assignment-7763a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462800828735:android:82342818bb481600c17b8a",
+        "android_client_info": {
+          "package_name": "com.ronit.resoluteaiassignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWiK-dR5D0FSx4G1NAV2LK_PazudxVAXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
